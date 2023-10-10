@@ -1,0 +1,25 @@
+.VendingMachine {
+    max-width: 1024px;
+    margin: 0px auto;
+    position: relative;
+}
+
+.VendingMachine img{
+    width: 100%;
+}
+
+
+.VendingMachine-links{
+    width: 300px;
+    position: absolute;
+    top: 50px;
+    background-color: rgba(256, 256, 256, 0.5);
+}
+
+
+.VendingMachine-links a{
+    color: white;
+    font-size: 3em;
+    font-weight: 300;
+    display: block;
+}
